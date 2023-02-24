@@ -34,6 +34,7 @@ I'm a recent graduate with a bachelors degree in Computer Science. Throughout my
 <br />
 
 ---
+
 ### 📈 Stats 📈
 
 ![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nick-Vasquez-CSU&show_icons=true&theme=tokyonight)
