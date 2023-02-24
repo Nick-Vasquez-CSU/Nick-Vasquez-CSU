@@ -1,16 +1,17 @@
-### Hi there 👋
+# ♟️ Nicolas Vasquez ♟️
 
-<!--
-**Nick-Vasquez-CSU/Nick-Vasquez-CSU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Aspiring Software Engineer`**
 
-Here are some ideas to get you started:
+I'm a recent graduate with a bachelors degree in Computer Science. Throughout my studies, I have learned a lot about how to be a better problem solver, programmer, and team-player. Here you can see all of my coding projects that I have personally had a significant hand in development. These projects range from filling in important pieces of already established code to full applications built from scratch. There is still so much to be learned on my journey as a software engineer and I hope to improve my skills as time goes on.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### Languages and Tools
+
+---
+### Stats
+![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nick-Vasquez-CSU&show_icons=true&theme=tokyonight)
+---
+
+<details>
+  <summary><h3>Finding my Passion in Technology</h3></summary>
+  Hello
