@@ -2,7 +2,7 @@
 
 **`Aspiring Software Engineer`**
 
-I'm a recent graduate with a bachelors degree in Computer Science with a focus on front-end, back-end, and game development. Throughout my studies, I have learned a lot about how to be a better problem solver, programmer, and team-player. Here you can see all of my coding projects that I have personally had a significant hand in development. These projects range from filling in important pieces of already established code to full applications built from scratch. There is still so much to be learned on my journey as a software engineer and I hope to improve my skills as time goes on.
+I'm a recent graduate with a bachelors degree in Computer Science with a focus on web front-end, web back-end, and game development. Throughout my studies, I have learned a lot about how to be a better problem solver, programmer, and team-player. Here you can see all of my coding projects that I have personally had a significant hand in development. These projects range from filling in important pieces of already established code to full applications built from scratch. There is still so much to be learned on my journey as a software engineer and I hope to improve my skills as time goes on.
 
 ---
 
